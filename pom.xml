@@ -9,6 +9,6 @@
     <packaging>pom</packaging>
 
     <modules>
-     <module>tomcat-7.0.42-sourcecode</module>
+     <module>tomcat-code</module>
 	</modules>
 </project>
