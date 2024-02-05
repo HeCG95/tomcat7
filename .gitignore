@@ -1,9 +1,9 @@
 #.idea
 .DS_STORE
 .svn
-.iml
+#.iml
 target/
-tomcat-study.iml
+#tomcat-study.iml
 .clss
 .log
 
